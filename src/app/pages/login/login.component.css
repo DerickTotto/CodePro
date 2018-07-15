@@ -1,0 +1,48 @@
+.fondo{
+    background-image: url(../../../assets/img/programadores.jpg);
+    background-size: cover;
+    position: absolute;
+    background-repeat: no-repeat;
+    height: 91%;
+    width: 100%;
+}
+.login{
+    position: absolute;
+    background-color: #fff;
+    height: 100%;
+    left: auto;
+    right: 0px;
+    text-align: center;
+}
+.formulario{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+}
+.logo{
+    margin-bottom: 50px;
+}
+.txtlogin{
+    font-family: "Montserrat-Bold";
+    font-size: 50px;
+}
+.btn-transparente{
+    border: solid rgb(224, 224, 224) 0.5px;
+    border-radius: 20px;
+    margin-top: 20px;
+    text-align: left;
+}
+.ingresar{
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.btn-facebook{
+    background-color: blue;
+    margin-right: 4px;
+}
+.btn-google{
+    background-color: red;
+    margin-left: 4px;
+}

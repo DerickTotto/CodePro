@@ -1,0 +1,13 @@
+body{
+    background-color: #fafafa;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+@font-face{
+    font-family: "Montserrat-Bold";
+    src: url(./assets/fonts/Montserrat/Montserrat-Bold.ttf);
+ }
+ @font-face{
+    font-family: "Montserrat-Light";
+    src: url(./assets/fonts/Montserrat/Montserrat-Light.ttf);
+ }
